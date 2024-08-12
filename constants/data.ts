@@ -138,7 +138,7 @@ export const navItems: NavItem[] = [
   {
     title: 'Tests',
     href: '/dashboard/tests',
-    icon: 'page',
+    icon: 'test',
     label: 'Tests'
   }
 ];
