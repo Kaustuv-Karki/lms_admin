@@ -26,7 +26,7 @@ export default function Sidebar({ className }: SidebarProps) {
         className
       )}
     >
-      <div className="hidden p-5 pt-10 lg:block">
+      {/* <div className="hidden p-5 pt-10 lg:block">
         <Link
           href={'https://github.com/Kiranism/next-shadcn-dashboard-starter'}
           target="_blank"
@@ -44,7 +44,7 @@ export default function Sidebar({ className }: SidebarProps) {
             <path d="M15 6v12a3 3 0 1 0 3-3H6a3 3 0 1 0 3 3V6a3 3 0 1 0-3 3h12a3 3 0 1 0-3-3" />
           </svg>
         </Link>
-      </div>
+      </div> */}
       <ChevronLeft
         className={cn(
           'absolute -right-3 top-10 z-50  cursor-pointer rounded-full border bg-background text-3xl text-foreground',
