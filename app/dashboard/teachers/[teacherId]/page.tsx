@@ -5,8 +5,8 @@ import React from 'react';
 
 const breadcrumbItems = [
   { title: 'Dashboard', link: '/dashboard' },
-  { title: 'Employee', link: '/dashboard/employee' },
-  { title: 'Create', link: '/dashboard/employee/create' }
+  { title: 'Teacher', link: '/dashboard/teachers' },
+  { title: 'Create', link: '/dashboard/teachers/create' }
 ];
 
 export default function Page() {
