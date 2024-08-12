@@ -90,7 +90,9 @@ export default function page() {
               </Card>
               <Card>
                 <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
-                  <CardTitle className="text-sm font-medium">Sales</CardTitle>
+                  <CardTitle className="text-sm font-medium">
+                    Students
+                  </CardTitle>
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     viewBox="0 0 24 24"
@@ -108,7 +110,7 @@ export default function page() {
                 <CardContent>
                   <div className="text-2xl font-bold">+12,234</div>
                   <p className="text-xs text-muted-foreground">
-                    +19% from last month
+                    +43 from the last month
                   </p>
                 </CardContent>
               </Card>
