@@ -128,5 +128,17 @@ export const navItems: NavItem[] = [
     href: '/dashboard/student',
     icon: 'user',
     label: 'students'
+  },
+  {
+    title: 'Courses',
+    href: '/dashboard/courses',
+    icon: 'page',
+    label: 'Courses'
+  },
+  {
+    title: 'Tests',
+    href: '/dashboard/tests',
+    icon: 'page',
+    label: 'Tests'
   }
 ];
