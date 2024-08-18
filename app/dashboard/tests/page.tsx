@@ -23,12 +23,6 @@ const page = () => {
             <CardTitle>Analytical Writing</CardTitle>
             <CardDescription>Number of Questions: 2</CardDescription>
           </CardHeader>
-          <CardContent>
-            <p>
-              This section evaluates your ability to articulate and support
-              complex ideas.
-            </p>
-          </CardContent>
         </Card>
 
         <Card>
@@ -36,12 +30,6 @@ const page = () => {
             <CardTitle>Quantitative Reasoning</CardTitle>
             <CardDescription>Number of Questions: 20</CardDescription>
           </CardHeader>
-          <CardContent>
-            <p>
-              This section tests your mathematical skills and understanding of
-              quantitative concepts.
-            </p>
-          </CardContent>
         </Card>
       </div>
     </PageContainer>
